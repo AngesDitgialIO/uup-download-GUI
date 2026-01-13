@@ -1,0 +1,40 @@
+# 依赖目录
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+*.txt
+
+# 临时文件
+*.tmp
+*.temp
+
+# 下载的文件
+*.zip
+*.cab
+*.esd
+
+# 配置文件
+config.json
+*.ini
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 错误日志
+*.html
+links_debug.txt
+all_possible_links.txt
+all_links_debug.txt
+sku_page_error.html
