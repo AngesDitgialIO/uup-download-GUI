@@ -5,8 +5,8 @@
 
 
 ## 下载安装
-在code中直接点击Download Zip后运行（注意软件为早期开发阶段有bug，没有完全解决问题）
+在code中直接点击Download Zip后在uup download GUI中选择uup_download_GUI.py运行（注意软件为早期开发阶段有bug，没有完全解决问题）
 
 ## 借物表
-下载的时候使用的网页：https://uupdump.net/（
+下载的时候使用的网页：https://uupdump.net/
 
